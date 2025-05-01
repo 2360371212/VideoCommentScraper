@@ -1,4 +1,4 @@
-# A spider lib for youtube 
+# A scraper lib for youtube 
 
 YoutubeCommentScraper.py: Used for crawling youtube video comments
 
